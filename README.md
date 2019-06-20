@@ -8,7 +8,8 @@ AWS Terraform scripts to build the following components
 
 Terraform Language Version 0.11
 
-Commands
+**Commands**
+
 *Plan*
 ```
 $ terraform plan -var-file="testing.tfvars"
